@@ -1,3 +1,11 @@
 .DS_Store
 *.DS_Store
+**/.DS_Store
 Thumbs.db
+DEPLOY_TO_GITHUB.sh
+PUSH_TO_GITHUB.sh
+배포방법.md
+README.md
+*.sh
+.git/
+github_deploy.py
